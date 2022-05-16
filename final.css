@@ -1,0 +1,12 @@
+#legend{
+    width: auto;
+    height: auto;
+    display: inline-table;
+    vertical-align: top;
+    text-align: center;
+    border: solid;
+}
+
+body{
+    background-color: lightsteelblue;
+}

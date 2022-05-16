@@ -1,0 +1,253 @@
+{"States":[
+  {
+    "name": "MN",
+    "drop_rates": "4.2%",
+    "poverty_rates": "9.6%"
+  },
+  {
+    "name": "MT",
+    "drop_rates": "6.5%",
+    "poverty_rates": "13%"
+  },
+  {
+    "name": "ND",
+    "drop_rates": "2.7%",
+    "poverty_rates": "10.7%"
+  },
+  {
+    "name": "HI",
+    "drop_rates": "5.5%",
+    "poverty_rates": "8.8%"
+  },
+  {
+    "name": "ID",
+    "drop_rates": "7.4%",
+    "poverty_rates": "11.8%"
+  },
+  {
+    "name": "WA",
+    "drop_rates": "6%",
+    "poverty_rates": "11.6%"
+  },
+  {
+    "name": "AZ",
+    "drop_rates": "7.7%",
+    "poverty_rates": "14%"
+  },
+  {
+    "name": "CA",
+    "drop_rates": "4.3%",
+    "poverty_rates": "12.8%"
+  },
+  {
+    "name": "CO",
+    "drop_rates": "4.7%",
+    "poverty_rates": "9.6%"
+  },
+  {
+    "name": "NV",
+    "drop_rates": "7.9%",
+    "poverty_rates": "12.9%"
+  },
+  {
+    "name": "NM",
+    "drop_rates": "10.3%",
+    "poverty_rates": "19.5%"
+  },
+  {
+    "name": "OR",
+    "drop_rates": "6.1%",
+    "poverty_rates": "12.6%"
+  },
+  {
+    "name": "UT",
+    "drop_rates": "3.9%",
+    "poverty_rates": "9%"
+  },
+  {
+    "name": "WY",
+    "drop_rates": "2.8%",
+    "poverty_rates": "11.1%"
+  },
+  {
+    "name": "AR",
+    "drop_rates": "7.7%",
+    "poverty_rates": "14%"
+  },
+  {
+    "name": "IA",
+    "drop_rates": "4.7%",
+    "poverty_rates": "11.2%"
+  },
+  {
+    "name": "KS",
+    "drop_rates": "5.2%",
+    "poverty_rates": "12%"
+  },
+  {
+    "name": "MO",
+    "drop_rates": "6%",
+    "poverty_rates": "13.2%"
+  },
+  {
+    "name": "NE",
+    "drop_rates": "4.3%",
+    "poverty_rates": "11%"
+  },
+  {
+    "name": "OK",
+    "drop_rates": "7.2%",
+    "poverty_rates": "15.6%"
+  },
+
+  {
+    "name": "SD",
+    "drop_rates": "8.1%",
+    "poverty_rates": "13.1%"
+  },
+  {
+    "name": "LA",
+    "drop_rates": "7.8%",
+    "poverty_rates": "18.6%"
+  },
+  {
+    "name": "TX",
+    "drop_rates": "6%",
+    "poverty_rates": "14.9%"
+  },
+  {
+    "name": "CT",
+    "drop_rates": "3.9%",
+    "poverty_rates": "10.4%"
+  },
+  {
+    "name": "NH",
+    "drop_rates": "4.1%",
+    "poverty_rates": "7.6%"
+  },
+  {
+    "name": "RI",
+    "drop_rates": "4",
+    "poverty_rates": "12.9%"
+  },
+  {
+    "name": "VT",
+    "drop_rates": "4.1%",
+    "poverty_rates": "11%"
+  },
+  {
+    "name": "AL",
+    "drop_rates": "5.4%",
+    "poverty_rates": "16.8%"
+  },
+  {
+    "name": "FL",
+    "drop_rates": "6.5%",
+    "poverty_rates": "13.6%"
+  },
+  {
+    "name": "GA",
+    "drop_rates": "6.2%",
+    "poverty_rates": "14.3%"
+  },
+  {
+    "name": "MS",
+    "drop_rates": "6.2%",
+    "poverty_rates": "19.7%"
+  },
+  {
+    "name": "SC",
+    "drop_rates": "6.4%",
+    "poverty_rates": "15.3%"
+  },
+  {
+    "name": "IL",
+    "drop_rates": "4.6%",
+    "poverty_rates": "12.1%"
+  },
+  {
+    "name": "IN",
+    "drop_rates": "7.4%",
+    "poverty_rates": "13.1%"
+  },
+  {
+    "name": "KY",
+    "drop_rates": "5.6%",
+    "poverty_rates": "16.9%"
+  },
+  {
+    "name": "NC",
+    "drop_rates": "5.7%",
+    "poverty_rates": "14%"
+  },
+  {
+    "name": "OH",
+    "drop_rates": "5.2%",
+    "poverty_rates": "13.9%"
+  },
+  {
+    "name": "TN",
+    "drop_rates": "5.4%",
+    "poverty_rates": "15.3%"
+  },
+  {
+    "name": "VA",
+    "drop_rates": "3.4%",
+    "poverty_rates": "10.76%"
+  },
+  {
+    "name": "WI",
+    "drop_rates": "4.4%",
+    "poverty_rates": "11%"
+  },
+  {
+    "name": "WV",
+    "drop_rates": "6.4%",
+    "poverty_rates": "17.8%"
+  },
+  {
+    "name": "DE",
+    "drop_rates": "5%",
+    "poverty_rates": "12.5%"
+  },
+  {
+    "name": "DC",
+    "drop_rates": "5.4%",
+    "poverty_rates": "11.6%"
+  },
+  {
+    "name": "MD",
+    "drop_rates": "3.9%",
+    "poverty_rates": "9%"
+  },
+  {
+    "name": "NJ",
+    "drop_rates": "3.6%",
+    "poverty_rates": "9.5%"
+  },
+  {
+    "name": "NY",
+    "drop_rates": "4.8%",
+    "poverty_rates": "13.6%"
+  },
+  {
+    "name": "PA",
+    "drop_rates": "5.4%",
+    "poverty_rates": "12.2%"
+  },
+  {
+    "name": "ME",
+    "drop_rates": "4.3%",
+    "poverty_rates": "11.6%"
+  },
+  {
+    "name": "MI",
+    "drop_rates": "5.3%",
+    "poverty_rates": "14.1%"
+  },
+  {
+    "name": "AK",
+    "drop_rates": "5.6%",
+    "poverty_rates": "17.2%"
+  }
+]}
